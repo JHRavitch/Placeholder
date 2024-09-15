@@ -1,439 +1,440 @@
 [
-    {
-      "name": "Red",
-      "rgb": "255,0,0",
-      "cmyk": "0,100,100,0",
-      "comment": "So original, it's like choosing plain white in a rainbow."
-    },
-    {
-      "name": "Green",
-      "rgb": "0,255,0",
-      "cmyk": "100,0,100,0",
-      "comment": "The color of envy and boring lunch salads."
-    },
-    {
-      "name": "Blue",
-      "rgb": "0,0,255",
-      "cmyk": "100,100,0,0",
-      "comment": "Because sky and ocean are such unique inspirations."
-    },
-    {
-      "name": "Yellow",
-      "rgb": "255,255,0",
-      "cmyk": "0,0,100,0",
-      "comment": "Perfect for those who love being blinded by the sun."
-    },
-    {
-      "name": "Orange",
-      "rgb": "255,165,0",
-      "cmyk": "0,35,100,0",
-      "comment": "Just red and yellow’s less popular cousin."
-    },
-    {
-      "name": "Purple",
-      "rgb": "128,0,128",
-      "cmyk": "50,100,0,0",
-      "comment": "A color that says, 'I try hard to be different, but I’m not.'"
-    },
-    {
-      "name": "Pink",
-      "rgb": "255,192,203",
-      "cmyk": "0,25,0,0",
-      "comment": "For those who still dream of fairy tales and glitter."
-    },
-    {
-      "name": "Brown",
-      "rgb": "165,42,42",
-      "cmyk": "0,75,75,35",
-      "comment": "The color of earth and your unremarkable taste."
-    },
-    {
-      "name": "Gray",
-      "rgb": "128,128,128",
-      "cmyk": "0,0,0,50",
-      "comment": "Because you want to blend in and be as dull as possible."
-    },
-    {
-      "name": "Black",
-      "rgb": "0,0,0",
-      "cmyk": "0,0,0,100",
-      "comment": "For those who are too cool to admit they like colors."
-    },
-    {
-      "name": "White",
-      "rgb": "255,255,255",
-      "cmyk": "0,0,0,0",
-      "comment": "The color of 'I have no imagination whatsoever.'"
-    },
-    {
-      "name": "Teal",
-      "rgb": "0,128,128",
-      "cmyk": "100,0,0,50",
-      "comment": "Because you couldn't decide between blue and green."
-    },
-    {
-      "name": "Cyan",
-      "rgb": "0,255,255",
-      "cmyk": "100,0,0,0",
-      "comment": "For when you want to feel like a 90s printer cartridge."
-    },
-    {
-      "name": "Magenta",
-      "rgb": "255,0,255",
-      "cmyk": "0,100,0,0",
-      "comment": "Perfect for when you need a color that screams 'I'm different!'"
-    },
-    {
-      "name": "Lime",
-      "rgb": "0,255,0",
-      "cmyk": "100,0,100,0",
-      "comment": "For those who prefer their fruit colors over subtlety."
-    },
-    {
-      "name": "Indigo",
-      "rgb": "75,0,130",
-      "cmyk": "42,100,0,49",
-      "comment": "For people who think they’re sophisticated because they use big words."
-    },
-    {
-      "name": "Violet",
-      "rgb": "238,130,238",
-      "cmyk": "0,45,0,7",
-      "comment": "A color for those who think purple wasn't exotic enough."
-    },
-    {
-      "name": "Gold",
-      "rgb": "255,215,0",
-      "cmyk": "0,16,100,0",
-      "comment": "For those who want to flaunt their bling without being too flashy."
-    },
-    {
-      "name": "Silver",
-      "rgb": "192,192,192",
-      "cmyk": "0,0,0,25",
-      "comment": "For people who like the idea of gold but can't afford it."
-    },
-    {
-      "name": "Bronze",
-      "rgb": "205,127,50",
-      "cmyk": "0,38,76,20",
-      "comment": "For those who settle for third place in color choices."
-    },
-    {
-      "name": "Peach",
-      "rgb": "255,229,180",
-      "cmyk": "0,10,29,0",
-      "comment": "The color of summer fruit and insipid taste."
-    },
-    {
-      "name": "Mint",
-      "rgb": "189,252,201",
-      "cmyk": "25,0,20,1",
-      "comment": "Because you wanted a pastel green that reminds you of toothpaste."
-    },
-    {
-      "name": "Olive",
-      "rgb": "128,128,0",
-      "cmyk": "0,0,100,50",
-      "comment": "The color of olives and questionable fashion choices."
-    },
-    {
-      "name": "Navy",
-      "rgb": "0,0,128",
-      "cmyk": "100,100,0,50",
-      "comment": "For those who think they’re sailing through life’s challenges."
-    },
-    {
-      "name": "Maroon",
-      "rgb": "128,0,0",
-      "cmyk": "0,100,100,50",
-      "comment": "The color of old-school academic robes and uninspired interiors."
-    },
-    {
-      "name": "Coral",
-      "rgb": "255,127,80",
-      "cmyk": "0,50,69,0",
-      "comment": "For those who dream of tropical beaches but live in reality."
-    },
-    {
-      "name": "Turquoise",
-      "rgb": "64,224,208",
-      "cmyk": "71,0,7,12",
-      "comment": "The color of vacation brochures and endless sea."
-    },
-    {
-      "name": "Lavender",
-      "rgb": "230,230,250",
-      "cmyk": "8,8,0,2",
-      "comment": "For those who think light purple is the epitome of calm."
-    },
-    {
-      "name": "Beige",
-      "rgb": "245,245,220",
-      "cmyk": "0,0,10,4",
-      "comment": "For those who think neutral is the new exciting."
-    },
-    {
-      "name": "Salmon",
-      "rgb": "250,128,114",
-      "cmyk": "0,49,54,2",
-      "comment": "Because pink wasn’t quite fishy enough."
-    },
-    {
-      "name": "Plum",
-      "rgb": "221,160,221",
-      "cmyk": "0,28,0,13",
-      "comment": "The color of fruit that’s as elusive as your taste."
-    },
-    {
-      "name": "Khaki",
-      "rgb": "195,176,145",
-      "cmyk": "0,10,26,24",
-      "comment": "For those who like the color of old military uniforms."
-    },
-    {
-      "name": "Chartreuse",
-      "rgb": "127,255,0",
-      "cmyk": "50,0,100,0",
-      "comment": "For when you want to make a statement that's impossible to ignore."
-    },
-    {
-      "name": "Azure",
-      "rgb": "0,127,255",
-      "cmyk": "100,50,0,0",
-      "comment": "The color of a clear sky, because you’re all about clichés."
-    },
-    {
-      "name": "Cerulean",
-      "rgb": "42,87,141",
-      "cmyk": "70,38,0,45",
-      "comment": "For those who like their blue with a hint of pretension."
-    },
-    {
-      "name": "Copper",
-      "rgb": "184,115,51",
-      "cmyk": "0,37,72,28",
-      "comment": "For those who like the idea of metal without the price tag."
-    },
-    {
-      "name": "Fuchsia",
-      "rgb": "255,0,255",
-      "cmyk": "0,100,0,0",
-      "comment": "For those who want their colors to scream for attention."
-    },
-    {
-      "name": "Periwinkle",
-      "rgb": "204,204,255",
-      "cmyk": "20,20,0,0",
-      "comment": "Because you need a color that says 'I’m whimsical yet indecisive.'"
-    },
-    {
-      "name": "Rose",
-      "rgb": "255,0,127",
-      "cmyk": "0,100,50,0",
-      "comment": "For those who think pink wasn’t quite dramatic enough."
-    },
-    {
-      "name": "Raspberry",
-      "rgb": "227,11,92",
-      "cmyk": "0,95,59,11",
-      "comment": "Because you want to remind everyone of fruit but with more attitude."
-    },
-    {
-      "name": "Jade",
-      "rgb": "0,168,107",
-      "cmyk": "100,0,36,34",
-      "comment": "For those who want to evoke elegance without the price."
-    },
-    {
-      "name": "Slate",
-      "rgb": "112,128,144",
-      "cmyk": "22,11,0,44",
-      "comment": "The color of rocks and your deep, unoriginal soul."
-    },
-    {
-      "name": "Amber",
-      "rgb": "255,191,0",
-      "cmyk": "0,25,100,0",
-      "comment": "For those who want a splash of gold without all the bling."
-    },
-    {
-      "name": "Burgundy",
-      "rgb": "128,0,32",
-      "cmyk": "0,100,75,50",
-      "comment": "The color of wine and overcompensated class."
-    },
-    {
-      "name": "Wheat",
-      "rgb": "245,222,179",
-      "cmyk": "0,9,27,4",
-      "comment": "For those who think beige is too bold."
-    },
-    {
-      "name": "Tan",
-      "rgb": "210,180,140",
-      "cmyk": "0,14,33,18",
-      "comment": "The color of mundane and uninspired decor."
-    },
-    {
-      "name": "Sapphire",
-      "rgb": "8,37,103",
-      "cmyk": "92,64,0,60",
-      "comment": "For those who like their blue with a side of mystery."
-    },
-    {
-      "name": "Topaz",
-      "rgb": "255,200,124",
-      "cmyk": "0,22,51,0",
-      "comment": "Because you need a color that says ‘I’m a gem, not just a stone.’"
-    },
-    {
-      "name": "Amethyst",
-      "rgb": "153,102,204",
-      "cmyk": "25,50,0,20",
-      "comment": "For those who like their purple with a touch of fantasy."
-    },
-    {
-      "name": "Garnet",
-      "rgb": "115,28,28",
-      "cmyk": "0,76,76,55",
-      "comment": "For those who think red wasn’t intense enough."
-    },
-    {
-      "name": "Tangerine",
-      "rgb": "255,165,0",
-      "cmyk": "0,35,100,0",
-      "comment": "The color of fruit salad and juvenile enthusiasm."
-    },
-    {
-      "name": "Lavender Blush",
-      "rgb": "255,240,245",
-      "cmyk": "0,6,4,0",
-      "comment": "For those who want to blush without any real commitment."
-    },
-    {
-      "name": "Sky Blue",
-      "rgb": "135,206,235",
-      "cmyk": "43,12,0,8",
-      "comment": "Because a clear sky was just too ordinary."
-    },
-    {
-      "name": "Steel Blue",
-      "rgb": "70,130,180",
-      "cmyk": "61,28,0,29",
-      "comment": "For those who want their blue to feel a bit industrial."
-    },
-    {
-      "name": "Forest Green",
-      "rgb": "34,139,34",
-      "cmyk": "75,0,75,46",
-      "comment": "For those who like their green with a hint of wilderness."
-    },
-    {
-      "name": "Sea Green",
-      "rgb": "46,139,87",
-      "cmyk": "67,0,37,45",
-      "comment": "The color of tropical waters and your misplaced vacation dreams."
-    },
-    {
-      "name": "Chocolate",
-      "rgb": "123,63,0",
-      "cmyk": "0,49,100,52",
-      "comment": "For those who think their favorite color should taste as good as it looks."
-    },
-    {
-      "name": "Firebrick",
-      "rgb": "178,34,34",
-      "cmyk": "0,81,81,30",
-      "comment": "For those who like their red with a touch of danger."
-    },
-    {
-      "name": "Indian Red",
-      "rgb": "205,92,92",
-      "cmyk": "0,55,55,20",
-      "comment": "For those who think their red should be exotic but not too bright."
-    },
-    {
-      "name": "Dark Khaki",
-      "rgb": "189,183,107",
-      "cmyk": "0,3,43,26",
-      "comment": "The color of your outdoor gear and your less-than-adventurous spirit."
-    },
-    {
-      "name": "Light Salmon",
-      "rgb": "255,160,122",
-      "cmyk": "0,37,52,0",
-      "comment": "Because regular salmon was just too serious."
-    },
-    {
-      "name": "Cornflower Blue",
-      "rgb": "100,149,237",
-      "cmyk": "58,37,0,7",
-      "comment": "For those who like their blue with a splash of classic literature."
-    },
-    {
-      "name": "Dodger Blue",
-      "rgb": "30,144,255",
-      "cmyk": "88,44,0,0",
-      "comment": "The color of sports teams and unfulfilled dreams."
-    },
-    {
-      "name": "Deep Pink",
-      "rgb": "255,20,147",
-      "cmyk": "0,92,42,0",
-      "comment": "For those who want their pink to be a little more intense."
-    },
-    {
-      "name": "Light Sea Green",
-      "rgb": "32,178,170",
-      "cmyk": "82,0,5,30",
-      "comment": "For those who like their sea green to be more soothing than thrilling."
-    },
-    {
-      "name": "Royal Blue",
-      "rgb": "65,105,225",
-      "cmyk": "71,53,0,12",
-      "comment": "For those who want their blue to be both regal and slightly pretentious."
-    },
-    {
-      "name": "Slate Gray",
-      "rgb": "112,128,144",
-      "cmyk": "22,11,0,44",
-      "comment": "The color of your indecisive fashion choices."
-    },
-    {
-      "name": "Medium Orchid",
-      "rgb": "186,85,211",
-      "cmyk": "12,60,0,17",
-      "comment": "For those who think purple should have more variety."
-    },
-    {
-      "name": "Sandy Brown",
-      "rgb": "244,164,96",
-      "cmyk": "0,33,61,4",
-      "comment": "The color of a beach without the hassle of sand."
-    },
-    {
-      "name": "Dark Olive Green",
-      "rgb": "85,107,47",
-      "cmyk": "21,0,56,58",
-      "comment": "For those who like their green with a side of gloom."
-    },
-    {
-      "name": "Light Goldenrod Yellow",
-      "rgb": "250,250,210",
-      "cmyk": "0,0,16,2",
-      "comment": "For those who want their yellow to be understated and mellow."
-    },
-    {
-      "name": "Gainsboro",
-      "rgb": "220,220,220",
-      "cmyk": "0,0,0,14",
-      "comment": "The color of your least exciting dreams."
-    },
-    {
-      "name": "Orchid",
-      "rgb": "218,112,214",
-      "cmyk": "0,49,2,15",
-      "comment": "For those who want to be different but still like purple."
-    }
+  {
+    "name": "Red",
+    "rgb": "255,0,0",
+    "cmyk": "0,100,100,0",
+    "comment": "So original, it's like choosing plain white in a rainbow."
+  },
+  {
+    "name": "Green",
+    "rgb": "0,255,0",
+    "cmyk": "100,0,100,0",
+    "comment": "The color of envy and boring lunch salads."
+  },
+  {
+    "name": "Blue",
+    "rgb": "0,0,255",
+    "cmyk": "100,100,0,0",
+    "comment": "Because sky and ocean are such unique inspirations."
+  },
+  {
+    "name": "Yellow",
+    "rgb": "255,255,0",
+    "cmyk": "0,0,100,0",
+    "comment": "Perfect for those who love being blinded by the sun."
+  },
+  {
+    "name": "Orange",
+    "rgb": "255,165,0",
+    "cmyk": "0,35,100,0",
+    "comment": "Just red and yellow’s less popular cousin."
+  },
+  {
+    "name": "Purple",
+    "rgb": "128,0,128",
+    "cmyk": "50,100,0,0",
+    "comment": "A color that says, 'I try hard to be different, but I’m not.'"
+  },
+  {
+    "name": "Pink",
+    "rgb": "255,192,203",
+    "cmyk": "0,25,0,0",
+    "comment": "For those who still dream of fairy tales and glitter."
+  },
+  {
+    "name": "Brown",
+    "rgb": "165,42,42",
+    "cmyk": "0,75,75,35",
+    "comment": "The color of earth and your unremarkable taste."
+  },
+  {
+    "name": "Gray",
+    "rgb": "128,128,128",
+    "cmyk": "0,0,0,50",
+    "comment": "Because you want to blend in and be as dull as possible."
+  },
+  {
+    "name": "Black",
+    "rgb": "0,0,0",
+    "cmyk": "0,0,0,100",
+    "comment": "For those who are too cool to admit they like colors."
+  },
+  {
+    "name": "White",
+    "rgb": "255,255,255",
+    "cmyk": "0,0,0,0",
+    "comment": "The color of 'I have no imagination whatsoever.'"
+  },
+  {
+    "name": "Teal",
+    "rgb": "0,128,128",
+    "cmyk": "100,0,0,50",
+    "comment": "Because you couldn't decide between blue and green."
+  },
+  {
+    "name": "Cyan",
+    "rgb": "0,255,255",
+    "cmyk": "100,0,0,0",
+    "comment": "For when you want to feel like a 90s printer cartridge."
+  },
+  {
+    "name": "Magenta",
+    "rgb": "255,0,255",
+    "cmyk": "0,100,0,0",
+    "comment": "Perfect for when you need a color that screams 'I'm different!'"
+  },
+  {
+    "name": "Lime",
+    "rgb": "0,255,0",
+    "cmyk": "100,0,100,0",
+    "comment": "For those who prefer their fruit colors over subtlety."
+  },
+  {
+    "name": "Indigo",
+    "rgb": "75,0,130",
+    "cmyk": "42,100,0,49",
+    "comment": "For people who think they’re sophisticated because they use big words."
+  },
+  {
+    "name": "Violet",
+    "rgb": "238,130,238",
+    "cmyk": "0,45,0,7",
+    "comment": "A color for those who think purple wasn't exotic enough."
+  },
+  {
+    "name": "Gold",
+    "rgb": "255,215,0",
+    "cmyk": "0,16,100,0",
+    "comment": "For those who want to flaunt their bling without being too flashy."
+  },
+  {
+    "name": "Silver",
+    "rgb": "192,192,192",
+    "cmyk": "0,0,0,25",
+    "comment": "For people who like the idea of gold but can't afford it."
+  },
+  {
+    "name": "Bronze",
+    "rgb": "205,127,50",
+    "cmyk": "0,38,76,20",
+    "comment": "For those who settle for third place in color choices."
+  },
+  {
+    "name": "Peach",
+    "rgb": "255,229,180",
+    "cmyk": "0,10,29,0",
+    "comment": "The color of summer fruit and insipid taste."
+  },
+  {
+    "name": "Mint",
+    "rgb": "189,252,201",
+    "cmyk": "25,0,20,1",
+    "comment": "Because you wanted a pastel green that reminds you of toothpaste."
+  },
+  {
+    "name": "Olive",
+    "rgb": "128,128,0",
+    "cmyk": "0,0,100,50",
+    "comment": "The color of olives and questionable fashion choices."
+  },
+  {
+    "name": "Navy",
+    "rgb": "0,0,128",
+    "cmyk": "100,100,0,50",
+    "comment": "For those who think they’re sailing through life’s challenges."
+  },
+  {
+    "name": "Maroon",
+    "rgb": "128,0,0",
+    "cmyk": "0,100,100,50",
+    "comment": "The color of old-school academic robes and uninspired interiors."
+  },
+  {
+    "name": "Coral",
+    "rgb": "255,127,80",
+    "cmyk": "0,50,69,0",
+    "comment": "For those who dream of tropical beaches but live in reality."
+  },
+  {
+    "name": "Turquoise",
+    "rgb": "64,224,208",
+    "cmyk": "71,0,7,12",
+    "comment": "The color of vacation brochures and endless sea."
+  },
+  {
+    "name": "Lavender",
+    "rgb": "230,230,250",
+    "cmyk": "8,8,0,2",
+    "comment": "For those who think light purple is the epitome of calm."
+  },
+  {
+    "name": "Beige",
+    "rgb": "245,245,220",
+    "cmyk": "0,0,10,4",
+    "comment": "For those who think neutral is the new exciting."
+  },
+  {
+    "name": "Salmon",
+    "rgb": "250,128,114",
+    "cmyk": "0,49,54,2",
+    "comment": "Because pink wasn’t quite fishy enough."
+  },
+  {
+    "name": "Plum",
+    "rgb": "221,160,221",
+    "cmyk": "0,28,0,13",
+    "comment": "The color of fruit that’s as elusive as your taste."
+  },
+  {
+    "name": "Khaki",
+    "rgb": "195,176,145",
+    "cmyk": "0,10,26,24",
+    "comment": "For those who like the color of old military uniforms."
+  },
+  {
+    "name": "Chartreuse",
+    "rgb": "127,255,0",
+    "cmyk": "50,0,100,0",
+    "comment": "For when you want to make a statement that's impossible to ignore."
+  },
+  {
+    "name": "Azure",
+    "rgb": "0,127,255",
+    "cmyk": "100,50,0,0",
+    "comment": "The color of a clear sky, because you’re all about clichés."
+  },
+  {
+    "name": "Cerulean",
+    "rgb": "42,87,141",
+    "cmyk": "70,38,0,45",
+    "comment": "For those who like their blue with a hint of pretension."
+  },
+  {
+    "name": "Copper",
+    "rgb": "184,115,51",
+    "cmyk": "0,37,72,28",
+    "comment": "For those who like the idea of metal without the price tag."
+  },
+  {
+    "name": "Fuchsia",
+    "rgb": "255,0,255",
+    "cmyk": "0,100,0,0",
+    "comment": "For those who want their colors to scream for attention."
+  },
+  {
+    "name": "Periwinkle",
+    "rgb": "204,204,255",
+    "cmyk": "20,20,0,0",
+    "comment": "Because you need a color that says 'I’m whimsical yet indecisive.'"
+  },
+  {
+    "name": "Rose",
+    "rgb": "255,0,127",
+    "cmyk": "0,100,50,0",
+    "comment": "For those who think pink wasn’t quite dramatic enough."
+  },
+  {
+    "name": "Raspberry",
+    "rgb": "227,11,92",
+    "cmyk": "0,95,59,11",
+    "comment": "Because you want to remind everyone of fruit but with more attitude."
+  },
+  {
+    "name": "Jade",
+    "rgb": "0,168,107",
+    "cmyk": "100,0,36,34",
+    "comment": "For those who want to evoke elegance without the price."
+  },
+  {
+    "name": "Slate",
+    "rgb": "112,128,144",
+    "cmyk": "22,11,0,44",
+    "comment": "The color of rocks and your deep, unoriginal soul."
+  },
+  {
+    "name": "Amber",
+    "rgb": "255,191,0",
+    "cmyk": "0,25,100,0",
+    "comment": "For those who want a splash of gold without all the bling."
+  },
+  {
+    "name": "Burgundy",
+    "rgb": "128,0,32",
+    "cmyk": "0,100,75,50",
+    "comment": "The color of wine and overcompensated class."
+  },
+  {
+    "name": "Wheat",
+    "rgb": "245,222,179",
+    "cmyk": "0,9,27,4",
+    "comment": "For those who think beige is too bold."
+  },
+  {
+    "name": "Tan",
+    "rgb": "210,180,140",
+    "cmyk": "0,14,33,18",
+    "comment": "The color of mundane and uninspired decor."
+  },
+  {
+    "name": "Sapphire",
+    "rgb": "8,37,103",
+    "cmyk": "92,64,0,60",
+    "comment": "For those who like their blue with a side of mystery."
+  },
+  {
+    "name": "Topaz",
+    "rgb": "255,200,124",
+    "cmyk": "0,22,51,0",
+    "comment": "Because you need a color that says ‘I’m a gem, not just a stone.’"
+  },
+  {
+    "name": "Amethyst",
+    "rgb": "153,102,204",
+    "cmyk": "25,50,0,20",
+    "comment": "For those who like their purple with a touch of fantasy."
+  },
+  {
+    "name": "Garnet",
+    "rgb": "115,28,28",
+    "cmyk": "0,76,76,55",
+    "comment": "For those who think red wasn’t intense enough."
+  },
+  {
+    "name": "Tangerine",
+    "rgb": "255,165,0",
+    "cmyk": "0,35,100,0",
+    "comment": "The color of fruit salad and juvenile enthusiasm."
+  },
+  {
+    "name": "Lavender Blush",
+    "rgb": "255,240,245",
+    "cmyk": "0,6,4,0",
+    "comment": "For those who want to blush without any real commitment."
+  },
+  {
+    "name": "Sky Blue",
+    "rgb": "135,206,235",
+    "cmyk": "43,12,0,8",
+    "comment": "Because a clear sky was just too ordinary."
+  },
+  {
+    "name": "Steel Blue",
+    "rgb": "70,130,180",
+    "cmyk": "61,28,0,29",
+    "comment": "For those who want their blue to feel a bit industrial."
+  },
+  {
+    "name": "Forest Green",
+    "rgb": "34,139,34",
+    "cmyk": "75,0,75,46",
+    "comment": "For those who like their green with a hint of wilderness."
+  },
+  {
+    "name": "Sea Green",
+    "rgb": "46,139,87",
+    "cmyk": "67,0,37,45",
+    "comment": "The color of tropical waters and your misplaced vacation dreams."
+  },
+  {
+    "name": "Chocolate",
+    "rgb": "123,63,0",
+    "cmyk": "0,49,100,52",
+    "comment": "For those who think their favorite color should taste as good as it looks."
+  },
+  {
+    "name": "Firebrick",
+    "rgb": "178,34,34",
+    "cmyk": "0,81,81,30",
+    "comment": "For those who like their red with a touch of danger."
+  },
+  {
+    "name": "Indian Red",
+    "rgb": "205,92,92",
+    "cmyk": "0,55,55,20",
+    "comment": "For those who think their red should be exotic but not too bright."
+  },
+  {
+    "name": "Dark Khaki",
+    "rgb": "189,183,107",
+    "cmyk": "0,3,43,26",
+    "comment": "The color of your outdoor gear and your less-than-adventurous spirit."
+  },
+  {
+    "name": "Light Salmon",
+    "rgb": "255,160,122",
+    "cmyk": "0,37,52,0",
+    "comment": "Because regular salmon was just too serious."
+  },
+  {
+    "name": "Cornflower Blue",
+    "rgb": "100,149,237",
+    "cmyk": "58,37,0,7",
+    "comment": "For those who like their blue with a splash of classic literature."
+  },
+  {
+    "name": "Dodger Blue",
+    "rgb": "30,144,255",
+    "cmyk": "88,44,0,0",
+    "comment": "The color of sports teams and unfulfilled dreams."
+  },
+  {
+    "name": "Deep Pink",
+    "rgb": "255,20,147",
+    "cmyk": "0,92,42,0",
+    "comment": "For those who want their pink to be a little more intense."
+  },
+  {
+    "name": "Light Sea Green",
+    "rgb": "32,178,170",
+    "cmyk": "82,0,5,30",
+    "comment": "For those who like their sea green to be more soothing than thrilling."
+  },
+  {
+    "name": "Royal Blue",
+    "rgb": "65,105,225",
+    "cmyk": "71,53,0,12",
+    "comment": "For those who want their blue to be both regal and slightly pretentious."
+  },
+  {
+    "name": "Slate Gray",
+    "rgb": "112,128,144",
+    "cmyk": "22,11,0,44",
+    "comment": "The color of your indecisive fashion choices."
+  },
+  {
+    "name": "Medium Orchid",
+    "rgb": "186,85,211",
+    "cmyk": "12,60,0,17",
+    "comment": "For those who think purple should have more variety."
+  },
+  {
+    "name": "Sandy Brown",
+    "rgb": "244,164,96",
+    "cmyk": "0,33,61,4",
+    "comment": "The color of a beach without the hassle of sand."
+  },
+  {
+    "name": "Dark Olive Green",
+    "rgb": "85,107,47",
+    "cmyk": "21,0,56,58",
+    "comment": "For those who like their green with a side of gloom."
+  },
+  {
+    "name": "Light Goldenrod Yellow",
+    "rgb": "250,250,210",
+    "cmyk": "0,0,16,2",
+    "comment": "For those who want their yellow to be understated and mellow."
+  },
+  {
+    "name": "Gainsboro",
+    "rgb": "220,220,220",
+    "cmyk": "0,0,0,14",
+    "comment": "The color of your least exciting dreams."
+  },
+  {
+    "name": "Orchid",
+    "rgb": "218,112,214",
+    "cmyk": "0,49,2,15",
+    "comment": "For those who want to be different but still like purple."
+  }
+]
