@@ -1,0 +1,28 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "position": "Software Engineer",
+        "department": "Development"
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "position": "Product Manager",
+        "department": "Product"
+      },
+      {
+        "id": 3,
+        "name": "Charlie Davis",
+        "position": "UX Designer",
+        "department": "Design"
+      }
+    ],
+    "company": {
+      "name": "TechCorp Inc.",
+      "location": "New York",
+      "industry": "Technology"
+    }
+  }
+  
